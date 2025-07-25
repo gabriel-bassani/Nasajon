@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization xmlns="http://nasajon.com/schemas/localization.xsd" culture="en">
+  <group name="LogOnView">
+    <string key="GS_LogOn_Title">Log on to Nasajon BI</string>
+    <string key="GS_LogOn_Button">Sign in</string>
+  </group>
+</localization>
